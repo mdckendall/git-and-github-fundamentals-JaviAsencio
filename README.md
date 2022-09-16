@@ -105,3 +105,12 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+
+# Markdown File Optional Step
+I learned the basics of using GitHub, especially for creating repositories, markdown files, a readme file, cloning, and the meaning of the word `forking` when it comes to copying a repository. Additionally, I was also able to understand the different ways to style my issues and pull requests within Github. However, I am still confused about how to use the specific features in GitHub. Some of the topics that I am not sure about are: 
+- Creating, deleting, and managing multiple repositories
+- Understanding how to use `Branches`
+- Knowing when there is an issue with a repository
+- How to use the `color models` markdown option
