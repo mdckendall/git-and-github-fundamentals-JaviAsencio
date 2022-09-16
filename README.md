@@ -110,7 +110,24 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Markdown File Optional Step
 I learned the basics of using GitHub, especially for creating repositories, markdown files, a readme file, cloning, and the meaning of the word `forking` when it comes to copying a repository. Additionally, I was also able to understand the different ways to style my issues and pull requests within Github. However, I am still confused about how to use the specific features in GitHub. Some of the topics that I am not sure about are: 
+
 - Creating, deleting, and managing multiple repositories
-- Understanding how to use `Branches`
-- Knowing when there is an issue with a repository
-- How to use the `color models` markdown option
+  - Understanding how to use `Branches`
+  - Knowing when there is an issue with a repository
+  - How to use the `color models` markdown option
+- Importing an image into a GitHub file
+- [ ] Can't find a way to import an image
+
+## Understanding How To Use the Different Markdown Options
+Overall, when it comes to understanding how to use the different markdown options, I now know how to use them.
+- [x] I know now how to use these markdown options!
+
+## Conclusion and Website Used
+Ultimately, even though I am having trouble understanding Github, I still found their website helpful. The website that I used is listed below under the website used section!
+
+[GitHub Docs (Basic writing and formatting syntax)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
+
+<!-- This will not be displayed, but the explanation helped! -->
+
+### Credit
+This Markdown File sample was created and edited by @JaviAsencio
