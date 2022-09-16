@@ -114,20 +114,19 @@ I learned the basics of using GitHub, especially for creating repositories, mark
 - Creating, deleting, and managing multiple repositories
   - Understanding how to use `Branches`
   - Knowing when there is an issue with a repository
-  - How to use the `color models` markdown option
+  
   
 - Importing an image into a GitHub file
   - Specifying the theme that an image is shown to
 
 ## Markdown options to review
 - [x] Read more about these options!
-- [ ] Find a way to import an image...
+- [x] Put a color in a pull request on a test repository
 - [ ] Celebrate once I know how to import an image :tada:
 - [x] Write down notes based on each markdown :thumbsup: 
 
 ## Understanding How To Use the Different Markdown Options
 Overall, when it comes to understanding how to use the different markdown options, I now know how to use them.
-- [x] I know now how to use these markdown options!
 
 ## Conclusion and Website Used
 Ultimately, even though I am having trouble understanding Github, I still found their website helpful. The website that I used is listed below under the website used section!
